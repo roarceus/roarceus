@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohan</h1>
+<h1 align="center">Hello there 👋, I'm Sohan</h1>
 <h3 align="center">A passionate Full-Stack developer studying at Northeastern University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roarceus" alt="roarceus" /></a> </p>
