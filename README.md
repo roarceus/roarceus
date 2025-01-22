@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vCBqRv43Zn_0CHhgEc0Q1OGgjbKKqPcw/view?usp=drive_link)
 
-- ⚡ Fun fact **I have a really good memory and will remember intricate details**
+- ⚡ Fun fact **I have a really good memory and will remember intricate details ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
