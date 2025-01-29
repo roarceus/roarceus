@@ -17,7 +17,7 @@
 
 - 📫Reach me at **sohan.patil98@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B_rATrcH9BwSZQnbkGhz5Uh-8SxaLm56/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gJMY2rGMy3t5TELAXZA0sN0H9lw8ejTR/view?usp=sharing)
 
 - ⚡ Fun fact **I have a really good memory and will remember intricate details ;)**
 
