@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gJMY2rGMy3t5TELAXZA0sN0H9lw8ejTR/view?usp=sharing)
 
-- ⚡ Fun fact **I have a really good memory and will remember intricate details ;)**
+- ⚡ Fun fact **I can name all 1025 Pokémon!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
