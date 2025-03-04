@@ -17,7 +17,7 @@
 
 - 📫Reach me at **sohan.patil98@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1caIGymzoM_4713kcW4-UW2R0-dLlTgcV/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14cIBaHw9tNquWpV3W6iDNmx39mwKWZuQ/view?usp=sharing)
 
 - ⚡ Fun fact **I can name all 1025 Pokémon!**
 
