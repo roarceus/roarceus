@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Sohan</h1>
 <h3 align="center">A passionate Full-Stack developer studying at Northeastern University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roarceus" alt="roarceus" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=roarceus)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJoaDI4NWRyMWo4d2NqenpucnJmNWR1ZXppcXppc3owbGh0cnBoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
