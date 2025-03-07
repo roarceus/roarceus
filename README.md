@@ -13,9 +13,7 @@
 
 - 🌱 I’m currently learning **Go, Docker & Kubernetes**
 
-- 👨‍💻 Get to know me by visiting my [Portfolio](https://roarceus.github.io/portfolio/)
-
-- 🧑🏻‍🎨 Visit my [Design Portfolio](https://sohanpatil.framer.website/)
+- 👨‍💻 Get to know me by visiting my [Dev Portfolio](https://roarceus.github.io/portfolio/) | [Design Portfolio](https://sohanpatil.framer.website/)
 
 - 💬 Ask me about **Full-Stack and Cloud Development**
 
