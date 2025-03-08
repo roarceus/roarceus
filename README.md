@@ -28,7 +28,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<h3 align="center">My Statistics:</h3>
+<h2 align="center">My Statistics</h2>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -36,7 +36,10 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=roarceus&theme=tokyonight&show_icons=true&count_private=true" />
   <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roarceus&theme=tokyonight&hide_border=false" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roarceus&theme=tokyonight&hide_border=false" />
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=roarceus&style=for-the-badge&color=blue&abbreviated=true" alt="roarceuspvc">
+  </p>
 </td>
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=roarceus&hide=python,html&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
@@ -46,7 +49,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<h2 align="center"> GitHub Activity Graph</h2>
+<h2 align="center">GitHub Activity Graph</h2>
 <p align="center"> 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=roarceus&theme=tokyo-night&area=true&hide_border=true" alt="roarceus" />
@@ -55,7 +58,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools</h2>
 
 <!-- Programming Languages -->
 <h2 align="center"> Programming Languages</h2>
@@ -95,7 +98,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## <b> Let's Connect..!</b>   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="60">
+## <b>Let's Connect!</b>   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="60">
 <br>
 <div align='left'>
 
