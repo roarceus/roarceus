@@ -28,6 +28,26 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<h2 align="center">Featured Organization: askTRACE Insight Platform</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/trace-survey-analysis" target="_blank">
+        <img src="https://github.com/roarceus/roarceus/blob/main/images/askTrace-logo.png" width="120" alt="askTRACE Logo">
+      </a>
+    </td>
+    <td>
+      <p>
+        Explore our work on analyzing and gaining insights from TRACE (Teacher Ratings and Course Evaluations) surveys at
+        <a href="https://github.com/trace-survey-analysis"><b>askTRACE</b></a> — an AI-powered platform that helps students better understand course feedback.
+      </p>
+    </td>
+  </tr>
+</table>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <h2 align="center">My Statistics</h2>
 <p align="center">
 <table align="center">
