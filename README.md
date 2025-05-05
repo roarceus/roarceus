@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width ="40">, I'm Sohan</h1>
+<h1 align="center">Hello there <img src="https://github.com/roarceus/roarceus/blob/main/images/programming.gif" width ="40">, I'm Sohan</h1>
 <h3 align="center">A passionate Full-Stack developer studying at Northeastern University</h3>
 
 <table align="center">
