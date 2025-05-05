@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="https://github.com/roarceus/roarceus/blob/main/images/programming.gif" width ="40">, I'm Sohan</h1>
+<h1 align="center">Hello there <img src="https://github.com/roarceus/roarceus/blob/main/images/hand-wave.gif" width ="40">, I'm Sohan</h1>
 <h3 align="center">A passionate Full-Stack developer studying at Northeastern University</h3>
 
 <table align="center">
@@ -15,7 +15,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJoaDI4NWRyMWo4d2NqenpucnJmNWR1ZXppcXppc3owbGh0cnBoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+  <img align="center" alt="Coding" width="400" src="https://github.com/roarceus/roarceus/blob/main/images/programming.gif">
 </td>
 </tr>
 </table>
