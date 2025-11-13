@@ -120,10 +120,16 @@
 
 ## <b>Let's Connect!</b>   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="60">
 <br>
-<div align='left'>
-
 <ul>
-<a href="https://www.linkedin.com/in/sohanpatil98" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin: Sohan Patil -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile of Sohan Patil" title="LinkedIn Profile of Sohan Patil" style="margin-bottom: 5px;"/>
-</a>
+  <a href="https://www.linkedin.com/in/sohanpatil98" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin: Sohan Patil -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile of Sohan Patil" title="LinkedIn Profile of Sohan Patil" style="margin-bottom: 5px;"/>
+  </a>
+</ul>
 <br>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+## <b>Contributions are not missing, they are just on a different space! 😏</b>
+<br>
+<img align="center" src="https://github.com/roarceus/roarceus/blob/main/images/mc-contributions.png" alt="MasterControl Contributions Graph">
+</br>
