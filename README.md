@@ -56,7 +56,7 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=roarceus&theme=tokyonight&show_icons=true&count_private=true" />
   <br><br>
-  <img src="https://github-readme-streak-stats-rho-blue.vercel.app?user=roarceus&theme=tokyonight&hide_border=false" alt="Mark streak" />
+  <img src="https://github-readme-streak-stats-virid-xi.vercel.app?user=roarceus&theme=tokyonight&hide_border=false" alt="Mark streak" />
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=roarceus&style=for-the-badge&color=blue&abbreviated=true" alt="roarceuspvc">
   </p>
