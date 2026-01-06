@@ -22,7 +22,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roarceus&column=7&rank=-?&theme=dark&bg_color=000000" alt="roarceus" />
+    <img src="https://github-profile-trophy-plum-ten.vercel.app/?username=roarceus&column=7&rank=-?&theme=dark&bg_color=000000" alt="roarceus" />
   </a> 
 </p>
 
