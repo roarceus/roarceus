@@ -10,7 +10,7 @@
 - 👨‍💻 Get to know me by visiting my [Dev](https://roarceus.github.io/portfolio/) | [Design](https://sohanpatil.framer.website/) Portfolios
 - 💬 Ask me about **Full-Stack and Cloud Development**
 - 📫 Reach me at **sohan.patil98@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SqTt_SNOxcrqMCTA8bzTdSzVdkrDDx99/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zN-mUQoHZP8GzJUA8LqPuFyQTDYbumJk/view?usp=drive_link)
 - ⚡ Fun fact **I can name all 1025 Pokémon!**
 
 </td>
