@@ -10,7 +10,7 @@
 - 👨‍💻 Get to know me by visiting my [Dev](https://roarceus.github.io/portfolio/) | [Design](https://sohanpatil.framer.website/) Portfolios
 - 💬 Ask me about **Full-Stack and Cloud Development**
 - 📫 Reach me at **sohan.patil98@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SqTt_SNOxcrqMCTA8bzTdSzVdkrDDx99/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zN-mUQoHZP8GzJUA8LqPuFyQTDYbumJk/view?usp=drive_link)
 - ⚡ Fun fact **I can name all 1025 Pokémon!**
 
 </td>
@@ -22,7 +22,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roarceus&column=7&rank=-?&theme=dark&bg_color=000000" alt="roarceus" />
+    <img src="https://github-profile-trophy-plum-ten.vercel.app/?username=roarceus&column=7&rank=-?&theme=dark&bg_color=000000" alt="roarceus" />
   </a> 
 </p>
 
@@ -54,9 +54,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roarceus&theme=tokyonight&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats-ivory-xi-93.vercel.app/api?username=roarceus&theme=tokyonight&show_icons=true&count_private=true" />
   <br><br>
-  <img src="https://github-readme-streak-stats-rho-blue.vercel.app?user=roarceus&theme=tokyonight&hide_border=false" alt="Mark streak" />
+  <img src="https://github-readme-streak-stats-virid-xi.vercel.app?user=roarceus&theme=tokyonight&hide_border=false" alt="Mark streak" />
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=roarceus&style=for-the-badge&color=blue&abbreviated=true" alt="roarceuspvc">
   </p>
@@ -120,10 +120,9 @@
 
 ## <b>Let's Connect!</b>   <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="60">
 <br>
-<div align='left'>
-
 <ul>
-<a href="https://www.linkedin.com/in/sohanpatil98" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin: Sohan Patil -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile of Sohan Patil" title="LinkedIn Profile of Sohan Patil" style="margin-bottom: 5px;"/>
-</a>
+  <a href="https://www.linkedin.com/in/sohanpatil98" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin: Sohan Patil -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile of Sohan Patil" title="LinkedIn Profile of Sohan Patil" style="margin-bottom: 5px;"/>
+  </a>
+</ul>
 <br>
