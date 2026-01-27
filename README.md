@@ -126,3 +126,10 @@
   </a>
 </ul>
 <br>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+## <b>Green squares were busy making impact on a private GitHub. 🌱</b>
+<br>
+<img align="center" src="https://github.com/roarceus/roarceus/blob/main/images/mc-contributions.png" alt="MasterControl Contributions Graph">
+</br>
