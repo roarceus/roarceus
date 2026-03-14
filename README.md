@@ -40,7 +40,7 @@
     <td>
       <p>
         Explore our work on analyzing and gaining insights from TRACE (Teacher Ratings and Course Evaluations) surveys at
-        <a href="https://github.com/trace-survey-analysis"><b>askTRACE</b></a> — an AI-powered platform that helps students better understand course feedback.
+        <a href="https://github.com/trace-survey-analysis"><b>askTRACE</b></a> - an AI-powered platform that helps students better understand course feedback.
       </p>
     </td>
   </tr>
