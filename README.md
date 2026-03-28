@@ -5,7 +5,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on **Cloud Computing and Backend Development**
+- 🔭 I’m currently working on **Cloud Computing and Full-Stack Development**
 - 🌱 I’m currently expanding my expertise in **Go & Kubernetes**
 - 👨‍💻 Get to know me by visiting my [Dev](https://roarceus.github.io/portfolio/) | [Design](https://sohanpatil.framer.website/) Portfolios
 - 💬 Ask me about **Full-Stack and Cloud Development**
