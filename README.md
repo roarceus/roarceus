@@ -11,7 +11,7 @@
 - 💬 Ask me about **Full-Stack and Cloud Development**
 - 📫 Reach me at **sohan.patil98@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yXZDkdMMWK4_9UZTHt5t82B_coefExaE/view?usp=sharing)
-- ⚡ Fun fact **I am into dexterity hobbies - Rubik's, Legos and Balisongs!**
+- ⚡ Fun fact **I am into dexterity hobbies - Rubik's, Legos, and Balisongs!**
 
 </td>
 <td width="50%" align="center">
