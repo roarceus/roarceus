@@ -10,7 +10,7 @@
 - 👨‍💻 Get to know me by visiting my [Dev](https://roarceus.github.io/portfolio/) | [Design](https://sohanpatil.framer.website/) Portfolios
 - 💬 Ask me about **Full-Stack and Cloud Development**
 - 📫 Reach me at **sohan.patil98@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12NGC4dRWqVIDsE0CWdqNtA-qEKnRjhRR/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14jGvESfQu0CMES9-oRTvsYgx6hEVD8Ni/view?usp=drive_link)
 - ⚡ Fun fact **I am into dexterity hobbies - Rubik's, Legos, and Balisongs!**
 
 </td>
