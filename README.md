@@ -72,7 +72,7 @@
 <h2 align="center">GitHub Activity Graph</h2>
 <p align="center"> 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-act-graph.rodriaum.com/graph?username=roarceus&theme=tokyo-night&area=true&hide_border=true" alt="roarceus" />
+    <img src="https://github-readme-activity-graph-sigma-pied.vercel.app/graph?username=roarceus&theme=tokyo-night&area=true&hide_border=true" alt="roarceus" />
   </a> 
 </p>
 
