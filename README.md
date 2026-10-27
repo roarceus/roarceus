@@ -86,22 +86,22 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,go" alt="Programming Languages" />
 </p>
 
-<!-- Frontend Development -->
-<h2 align="center"> Frontend Development</h2>
+<!-- DevOps & Cloud -->
+<h2 align="center"> DevOps & Cloud</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,sass,tailwind,html,css,bootstrap,materialui" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,githubactions,bash,linux" alt="DevOps & Cloud" />
 </p>
 
 <!-- Backend Development -->
 <h2 align="center"> Backend Development</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend Development" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Development" />
 </p>
 
-<!-- DevOps & Cloud -->
-<h2 align="center"> DevOps & Cloud</h2>
+<!-- Frontend Development -->
+<h2 align="center"> Frontend Development</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,githubactions,bash,linux" alt="DevOps & Cloud" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,sass,bootstrap" alt="Frontend Development" />
 </p>
 
 <!-- Databases -->
